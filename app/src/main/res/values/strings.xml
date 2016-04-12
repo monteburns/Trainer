@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trainer</string>
+    <string name="newButton">New</string>
+    <string name="listButton">List</string>
+    <string name="intro">You can make a new training program by chosing new and scroll the existing ones with list, simple.</string>
+    <string-array name="durationArray">
+        <item>weeks</item>
+        <item>mounts</item>
+        <item>years</item>
+        <item>centuries</item>
+        <item>millenniums</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
